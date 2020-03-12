@@ -3,13 +3,13 @@ body {
 }
 
 h1 {
-  font-family: "Neuton", serif;
-  color: #8C8C8C;
+  font-family: Neuton, serif;
+  color: #8c8c8c;
 }
 
 .song {
   font-family: "Neuton", serif;
-  color: #EBB746;
+  color: #Ebb746;
   margin: 0;
   align-items: center;
   position: relative;
@@ -29,7 +29,7 @@ h1 {
 
 .chorus {
   font-family: "Montserrat", sans-serif;
-  color: #D4201C;
+  color: #d4201c;
 }
 
 p {
