@@ -1,5 +1,5 @@
 body {
-  background-color:#000;
+  background-color: #000;
 }
 
 h1 {
@@ -9,9 +9,8 @@ h1 {
 
 .song {
   font-family: Neuton, serif;
-  color: #Ebb746;
+  color: #ebb746;
   margin: 0;
-  /* position: relative; */
 }
 
 .p1 {
@@ -61,8 +60,6 @@ p {
     top: 83%;
     width: 100%;
   }
-
-
 
 }
 
