@@ -61,6 +61,7 @@ hr {
 table {
   border-collapse: collapse;
   border-spacing: 0;
+
   table-layout: fixed;
   margin-left: -.325rem;
   margin-right: -.325rem;
