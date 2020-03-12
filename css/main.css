@@ -11,7 +11,7 @@ h1 {
   font-family: "Neuton", serif;
   color: #Ebb746;
   margin: 0;
-  position: relative;
+  /* position: relative; */
 }
 
 .p1 {
@@ -38,7 +38,7 @@ p {
 @media only screen and (min-width: 25em) {
 
   .chorus {
-    align-items: center;
+    text-align: center;
   }
 
   .p1 {
@@ -48,46 +48,45 @@ p {
     width: 100%;
   }
 
-  .p2{
+  .p2 {
     left: 50%;
-    transform: translatex(-50%);
+    transform: translateX(-50%);
     top: 54%;
     width: 100%;
   }
 
-  .p3{
+  .p3 {
     left: 50%;
-    transform: translatex(-50%);
+    transform: translateX(-50%);
     top: 83%;
     width: 100%;
   }
+
+
 
 }
 
 @media only screen and (min-width: 60em) {
 
-  .chorus{
-  }
-
-  .p1{
+  .p1 {
     left: 50%;
-    transform: translatex(-50%);
+    transform: translateX(-50%);
     top: 13%;
     background-color: #000;
     width: 100%;
   }
 
-  .p2{
+  .p2 {
     left: 50%;
-    transform: translatex(-50%);
+    transform: translateX(-50%);
     top: 43%;
     background-color: #000;
     width: 100%;
   }
 
-  .p3{
+  .p3 {
     left: 50%;
-    transform: translatex(-50%);
+    transform: translateX(-50%);
     top: 73%;
     background-color: #000;
     width: 100%;
